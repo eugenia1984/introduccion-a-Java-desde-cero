@@ -35,7 +35,7 @@ Puedo **variar el contenido de una variable, siempre y cuando sea del mismo tipo
 
 ¿Cómo la declaro ? <br>
 
-**tipoDeVarible** **nombreDeLaVariable** = **valorDelaVariable**; <br>
+**tipoDeVarible**  **nombreDeLaVariable**  =  **valorDelaVariable**; <br>
 
 
 ### Constantes
