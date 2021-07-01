@@ -25,8 +25,9 @@ Las imprimo con **System.out.println** y **concateno** string con variable. <br>
 También puedo pasar de INT a CHAR, con casting: **(char)**. <br>
 También puedo pasar de String a int con **Integer.parseInt()** o de int a string con **Integer.toString()**. <br>
 
+---
 
-### Proyecto: EjerciciosUdemy:
+## Proyecto: EjerciciosUdemy :
 
 **SumaDosNumeros** : declaro dos variables, le asigno valores, y declaro una tercer varaible suma (que es la suma de los números anteriores) y los muestro por pantalla. <br>
 
