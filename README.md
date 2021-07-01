@@ -6,7 +6,7 @@
 
 **Proyecto: Hola Mundo**  <br>
 
-dentro del proyecto tengo los siguientes paquetes:  <br>
+Dentro del proyecto tengo los siguientes paquetes:  <br>
 
 **holamundo** : el primer Hola Mundo en Java.  <br>
 
@@ -51,10 +51,14 @@ Al tener el nombre en mayúscula, se que es constante y no es variable. <br>
 
 ### Tipo de variables - primitivas
 
+-BOLEANO: <br>
+
 **Boolean** <br>
 True / False <br>
 1 bit <br>
 False es el valor por defecto <br>
+
+-CARACTER: <br>
 
 **char** <br>
 caracter unicode <br>
@@ -63,6 +67,7 @@ caracter unicode <br>
 Cada caracter tiene un valor ASCCI. <br>
 siempre van entre comillas simpleas. <br>
 
+-ENTEROS: <br>
 **short** <br>
 entero con signo<br>
 8 bits <br>
@@ -79,7 +84,9 @@ entero con signo<br>
 0 por defecto <br>
 Siempre al asignar un valor debo indicarle al final una **l** o **L**, sino comila como int. <br>
 
-*float** <br>
+-REALES: <br>
+
+**float** <br>
 coma flotante de presicion simplre <br>
 32 bits <br>
 0.0 valor por defecto <br>
@@ -89,6 +96,7 @@ siempre al asignarle un valor al final debo indocar **f** o **F**, sino el compi
 coma flotante de precision doel <br>
 64 bits <br>
 0.0 valor por defecto <br>
+
 
 ### String - tipo de variable no primitiva, es un objeto
 
@@ -116,13 +124,16 @@ Para pasar de un tipo **ENTERO** a un tipo **DECIMAL** o vice versa. <br>
 
 También está el **CASTING COMPLEJO** .<br>
 
+
 ```
 int numero = Integer.parseInt("10");  //paso de CADENA a ENTERO
 
 String cadena = Integer.toString(10);  //paso de ENTERO a CADENA
 ```
 
+
 ---
+
 
 ### Características del lenguaje Java
 
@@ -135,6 +146,7 @@ En mi proyecto, click derecho -> Generar JavaDoc, y me abre una página HTML. <b
 
 3- Lenguaje de formato libre. <br>
 Puedo escribir: <br>
+
 
 ```
 System.out.
@@ -157,12 +169,16 @@ int[] matriz = {
 Salvo los tipos primitivos (las variables), todo lo demás es un **objeto**. <br>
 La Programación orientada a objeto es una forma de programar. <br>
 
+
 5- Garbage Collector <br>
 Es un recolector de basura, todo lo que declaramos ocupa memoria, el garbage colector ve nuestro código fuente, y si ve que una varaible no se usa la libera de la memoria.<br>
 
+
 ---
 
+
 ## ALGORITMO
+
 
 Es un conjunto de pasos lógicos, ordenados, finitos , que siempre dan el mismo resultado, para resolver un problema. <br>
 Tienen: <br>
@@ -172,6 +188,7 @@ Tienen: <br>
   * Salida
   * Fin
 
+
 Un ejemplo de la visa real, para ir al cine:
   * ver la cartelera
   * Elegir la pelicula
@@ -179,18 +196,23 @@ Un ejemplo de la visa real, para ir al cine:
   * Ingresar a la sala
   * Ver la película
   
+  
 ---
+
 
 ## PALABRAS RESERVADAS
 
 No se pueden usar para llamar a una variable, una constante, funciones o un método dentro de mi algoritmo. <br>
 Algunos ejemplos: int, public, static, void. <br>
 
+
 ---
+
 
 ## ESTRUCTURA DE UN PROGRAMA EN JAVA
 
 1- Todos los programas en java están formados por **CLASES** . Por ejemplo: <br>
+
 
 ```
 public class ejemplo {
@@ -198,9 +220,12 @@ public class ejemplo {
 }
 ```
 
+
 2- Lo que vamos a necesitar: las varaibles de entrada y salida <br>
 
+
 3- El método main, el que inicializa cualquier programa en Java, por ejemplo: <br>
+
 
 ```
 public class ejemplo {
@@ -211,7 +236,11 @@ public class ejemplo {
 }    
 ```
 
+
 4- Dentro del main se realizan todas las operaciones. <br>
 
+
 ---
+
+
 
