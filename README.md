@@ -310,3 +310,12 @@ si no { <br>
 }<br>
 
 En este caso tenemos dos opciones, si cumple la condición ejecuto el bloque de código dentro del IF, si no la cumple, ejecuto el bloque de código dentro del ELSE. <br>
+
+---
+
+
+## CONDICIONALES LÓGICOS
+
+  *  && (AND)
+  *  || (OR)
+  *  ! (NOT)
