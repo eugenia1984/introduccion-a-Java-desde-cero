@@ -2,9 +2,13 @@
 
 ## Curso  de Jesús Gimenez
 
+---
+
 ## ¿ Qué hice ?
 
-**Proyecto: Hola Mundo**  <br>
+
+## Proyecto: Hola Mundo
+
 
 Dentro del proyecto tengo los siguientes paquetes:  <br>
 
@@ -21,6 +25,16 @@ Las imprimo con **System.out.println** y **concateno** string con variable. <br>
 También puedo pasar de INT a CHAR, con casting: **(char)**. <br>
 También puedo pasar de String a int con **Integer.parseInt()** o de int a string con **Integer.toString()**. <br>
 
+
+### Proyecto: EjerciciosUdemy:
+
+**SumaDosNumeros** : declaro dos variables, le asigno valores, y declaro una tercer varaible suma (que es la suma de los números anteriores) y los muestro por pantalla. <br>
+
+**areaCuadrado** :  declaro mis varaibles, asgino valor a lado, calculo el área y la muestro por consola. <br>
+
+**cuadradoDeUnNumero** dado un numero que se ingresa por consola, calculo su cuadrado y lo muestro. <br>
+
+**calcularSalario** : de acuerdo a las horas trabajadas y la tarifa por hora. <br>
 
 ---
 
