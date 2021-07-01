@@ -37,6 +37,10 @@ También puedo pasar de String a int con **Integer.parseInt()** o de int a strin
 
 **calcularSalario** : de acuerdo a las horas trabajadas y la tarifa por hora. <br>
 
+**eresMayor** : ingresando la edad se indica si es o no mayor de edad. <br>
+
+**eresPositivo** : ingresando un número se indica si es positivo o negativo. <br>
+
 ---
 
 
@@ -258,4 +262,51 @@ public class ejemplo {
 ---
 
 
+## OPERADORES RELACIONALES
 
+  * = igual a
+  * <> distinto a
+  * > mayor a 
+  * > menor a
+  * >= mayor o igual a
+  * <= menor o igual a
+
+
+---
+
+## CONDICIONAL IF (SI)
+
+```
+
+if(condicion) {
+ //bloque de codigo a ejecutar si la condicion se cumple - es True- 
+}
+
+```
+
+Ejemplo en pseudocodigo: <br>
+
+salario = 100.000 <br>
+
+si (salario > 40000) entonces { <br>
+ Escribir " Tiene buen salario" <br>
+} <br>
+
+Como el salario de 100.000 es mayor a 40.000, cumple la condición, entonces se imprime: Tiene bune salario. <br>
+
+---
+
+## CONDICIONAL IF /ELSE (SI / SINO)
+
+Ejemplo en pseudogodigo:  <br>
+
+edad = 24 <br>
+
+si (edad > 18 ) entonces { <br>
+ Escribir "Eres mayor de edad" <br>
+} <br>
+si no { <br>
+ Escribir "Eres menor de edad" <br>
+}<br>
+
+En este caso tenemos dos opciones, si cumple la condición ejecuto el bloque de código dentro del IF, si no la cumple, ejecuto el bloque de código dentro del ELSE. <br>
