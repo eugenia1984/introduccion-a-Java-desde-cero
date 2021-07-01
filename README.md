@@ -316,6 +316,6 @@ En este caso tenemos dos opciones, si cumple la condición ejecuto el bloque de 
 
 ## CONDICIONALES LÓGICOS
 
-  *  && (AND)
-  *  || (OR)
+  *  && (AND) : deben cumplirse ambas, para ser True.
+  *  || (OR) : con que una sea True, entonces es True.
   *  ! (NOT)
