@@ -159,3 +159,59 @@ La Programación orientada a objeto es una forma de programar. <br>
 
 5- Garbage Collector <br>
 Es un recolector de basura, todo lo que declaramos ocupa memoria, el garbage colector ve nuestro código fuente, y si ve que una varaible no se usa la libera de la memoria.<br>
+
+---
+
+## ALGORITMO
+
+Es un conjunto de pasos lógicos, ordenados, finitos , que siempre dan el mismo resultado, para resolver un problema. <br>
+Tienen: <br>
+  * Inicio
+  * Entrada
+  * Proceso
+  * Salida
+  * Fin
+
+Un ejemplo de la visa real, para ir al cine:
+  * ver la cartelera
+  * Elegir la pelicula
+  * Comprar los tickets
+  * Ingresar a la sala
+  * Ver la película
+  
+---
+
+## PALABRAS RESERVADAS
+
+No se pueden usar para llamar a una variable, una constante, funciones o un método dentro de mi algoritmo. <br>
+Algunos ejemplos: int, public, static, void. <br>
+
+---
+
+## ESTRUCTURA DE UN PROGRAMA EN JAVA
+
+1- Todos los programas en java están formados por **CLASES** . Por ejemplo: <br>
+
+```
+public class ejemplo {
+
+}
+```
+
+2- Lo que vamos a necesitar: las varaibles de entrada y salida <br>
+
+3- El método main, el que inicializa cualquier programa en Java, por ejemplo: <br>
+
+```
+public class ejemplo {
+
+    public static void main (String[] args) {
+
+    }
+}    
+```
+
+4- Dentro del main se realizan todas las operaciones. <br>
+
+---
+
