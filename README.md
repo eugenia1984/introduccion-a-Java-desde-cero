@@ -319,3 +319,10 @@ En este caso tenemos dos opciones, si cumple la condición ejecuto el bloque de 
   *  && (AND) : deben cumplirse ambas, para ser True.
   *  || (OR) : con que una sea True, entonces es True.
   *  ! (NOT)
+
+---
+
+
+Seguime en: [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+---
